@@ -1,0 +1,38 @@
+ans :1
+===================== RESTART: C:/Users/ragve/Desktop/1.py =====================
+Enter first number:20
+Enter second number:22
+Enter third number:24
+The average of three numbers is :
+22.0
+
+ans :2
+===================== RESTART: C:/Users/ragve/Desktop/2.py =====================
+enter your gross income:110000
+Enter your number of dependents:3
+Your income tax is :
+18200.0
+
+ans :3
+===================== RESTART: C:/Users/ragve/Desktop/3.py =====================
+Enter your SID:21108003
+Enter your name:Ragvender Arya
+Enter your Gender: M
+Enter your course name:CSE
+Enter your CGPA:10
+['21108003', 'Ragvender Arya', 'M', 'CSE', 10.0]
+
+ans :4
+===================== RESTART: C:/Users/ragve/Desktop/4.py =====================
+Enter marks of students:90
+Enter marks of students:80
+Enter marks of students:70
+Enter marks of students:100
+Enter marks of students:99
+['100', '70', '80', '90', '99']
+
+ans :5
+===================== RESTART: C:/Users/ragve/Desktop/5.py =====================
+Part a question :  ['Red', 'Green', 'White', 'Pink', 'Yellow']
+Part b of question : ['Red', 'Green', 'White', 'Purple', 'Yellow']
+
