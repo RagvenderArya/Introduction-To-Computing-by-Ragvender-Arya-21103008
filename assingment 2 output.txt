@@ -1,0 +1,49 @@
+The solution of Question 1 is :
+===================== RESTART: C:/Users/ragve/Desktop/11.py =====================
+(a)     The length of the given string is : 35
+(b)     The string in reverse would be : egaugnal evitisnes esac a si nohtyP
+(c)     The new string becomes : a case sensitive
+(d)     The replaced substring will be : Python is object oriented language
+(e)     The first occurence of the given substring "a" is at index no. = 10
+(f)     The inputted strings with no white spaces will be "Pythonisacasesensitivelanguage"
+
+
+The solution of Question 2 is :
+===================== RESTART: C:/Users/ragve/Desktop/12.py =====================
+Enter your name : Ragvender Arya
+Enter your SID : 21103008
+Enter the name of your department : cse
+Enter your CGPA : 10
+
+Hey, Ragvender Arya Here!
+My SID is 21103008
+I am from CSE department and my CGPA is 10.0
+
+
+The solution of Question 3 is :
+===================== RESTART: C:/Users/ragve/Desktop/13.py =====================
+a.      a & b = 8
+b.      a | b = 58
+c.      a ^ b = 50
+d.      Left shift both a and b with 2 bits : a = 224, b = 40
+e.      Right shift a with 2 bits and b with 4 bits : a = 14, b = 0
+
+
+The solution of Question 4 is :
+===================== RESTART: C:/Users/ragve/Desktop/14.py =====================
+Enter first number : 45
+Enter second number : 22
+Enter third number : 124
+The greatest number is 124
+
+
+The solution of Question 5 is :
+===================== RESTART: C:/Users/ragve/Desktop/15.py =====================
+Enter the string : adfhakjfhanameeaihfsadjkfh
+Yes
+
+
+The solution of Question 6 is :
+===================== RESTART: C:/Users/ragve/Desktop/16.py =====================
+Enter the dimensions to check whether triangle possible or not : 6 10 12
+Yes
